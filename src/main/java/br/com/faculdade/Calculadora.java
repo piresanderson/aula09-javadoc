@@ -19,4 +19,15 @@ public class Calculadora {
         }
         return a / b;
     }
+
+    /**
+     * Multiplica dois números inteiros.
+     *
+     * @param a primeiro fator
+     * @param b segundo fator
+     * @return o produto de a por b
+     */
+    public int multiplica(int a, int b) {
+        return a + b;
+    }
 }
