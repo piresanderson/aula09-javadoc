@@ -26,4 +26,4 @@ automaticamente a cada push na branch `main`.
 Este projeto segue o padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/).
 
 ## Autor
-[Seu Nome]
+Anderson Pires do Nascimento e Rafaela Dias Gregorio
