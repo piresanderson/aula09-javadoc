@@ -28,6 +28,6 @@ public class Calculadora {
      * @return o produto de a por b
      */
     public int multiplica(int a, int b) {
-        return a + b;
+        return a * b;
     }
 }
